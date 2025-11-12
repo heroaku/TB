@@ -1,7 +1,6 @@
 {
     "time": "2025.11.10",
-    //"spider": "./BXS.jar",
-    "spider": "https://github.com/heroaku/TVboxo/raw/refs/heads/main/fm.jar",
+    "spider": "./BXS.jar",
     "wallpaper": "./BXS.webp",
     "logo": "./BXS.gif",
     "warningText": "📢📢📢公众号〡影视百晓生提醒您！该接口来源于潇洒大佬，仅用于学习使用！请在体验后24小时内删除！",
